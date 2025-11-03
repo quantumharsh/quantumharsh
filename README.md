@@ -33,6 +33,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=quantumharsh&show_icons=true&theme=tokyonight&hide_border=true&title_color=ff79c6&icon_color=50fa7b&text_color=8be9fd&bg_color=0d1117" alt="Harsh's GitHub stats" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quantumharsh&layout=compact&theme=tokyonight&hide_border=true&title_color=ff79c6&text_color=8be9fd&bg_color=0d1117" alt="Top Languages" width="48%"/>
 </p>
+<p align="center">
+  <img src="https://github.com/quantumharsh/quantumharsh/blob/main/banner.png" alt="QuantumHarsh Banner" width="100%">
+</p>
+
 
 
 ✨ *Keep your curiosity alive. Reality starts where logic bends.*
