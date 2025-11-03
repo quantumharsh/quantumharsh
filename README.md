@@ -26,6 +26,12 @@
 - 🌍 “I’d rather understand the universe than just live in it.”  
 
 ---
+---
+
+### ⚡ GitHub Stats
+![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=quantumharsh&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quantumharsh&layout=compact&theme=radical)
+
 
 ✨ *Keep your curiosity alive. Reality starts where logic bends.*
 
