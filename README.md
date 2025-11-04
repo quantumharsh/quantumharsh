@@ -3,8 +3,40 @@
 🚀 **Mechanical Engineering Student | Future Aerospace Innovator**  
 🧩 Exploring **Quantum Physics, Mechanics & Space Systems**  
 🎯 Aspiring **MIT Researcher** | Building my own **Space Agency** someday  
+⚛️ Quantum Thinker  
+🤖 Learning AI Automation Workflows (n8n)
+---
+I explore reality from two sides —  
+the physics of how the universe behaves  
+and the AI systems we build to automate it.
+---
+### ⚡ Current Focus
+- MIT OCW **8.04 – Quantum Physics I**
+- Building personal AI automations through **n8n**
+- Creating research + communication workflow systems
+- Exploring how information can move, transform & react like a quantum system
+  
+---
+
+### 🧩 Core Interests
+- Quantum Mechanics (MIT 8.04 Path)
+- Mechanical & Aerospace Concepts
+- AI Automation + Web Integrations
+- System Design inspired by physics
 
 ---
+
+### 🛰 Vision
+Not to follow the world —  
+but to design systems that **bend the rules** of how humans interact with information.
+
+---
+
+> “The universe runs on fundamental equations.  
+> My goal is to build systems that run just as deep.”
+
+---
+
 
 ### 🌌 About Me
 - 🔭 Currently studying at **GEC Palanpur**
@@ -16,8 +48,7 @@
 
 ### 🧠 Current Focus
 - MIT OCW **8.04 – Quantum Physics I**
-- Building projects in **Fusion 360 & SolidWorks**
-- Learning **Python + MATLAB** for simulation and analysis
+
 
 ---
 
