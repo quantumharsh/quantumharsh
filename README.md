@@ -50,12 +50,6 @@ but to design systems that **bend the rules** of how humans interact with inform
 
 ---
 
-### 🧠 Current Focus
-- MIT OCW **8.04 – Quantum Physics I**
-
-
----
-
 ### 📫 Reach Me
 - 💻 GitHub: [github.com/quantumharsh](https://github.com/quantumharsh)
 - 🌍 “I’d rather understand the universe than just live in it.”  
