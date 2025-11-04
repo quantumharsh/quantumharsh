@@ -5,11 +5,15 @@
 🎯 Aspiring **MIT Researcher** | Building my own **Space Agency** someday  
 ⚛️ Quantum Thinker  
 🤖 Learning AI Automation Workflows (n8n)
+
 ---
+
 I explore reality from two sides —  
 the physics of how the universe behaves  
 and the AI systems we build to automate it.
+
 ---
+
 ### ⚡ Current Focus
 - MIT OCW **8.04 – Quantum Physics I**
 - Building personal AI automations through **n8n**
